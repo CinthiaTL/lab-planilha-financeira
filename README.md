@@ -1,2 +1,2 @@
 # lab-planilha-financeira
-Lab do curdo da DIO sobre planilhas inteligentes
+Lab do curso da DIO sobre planilhas inteligentes
